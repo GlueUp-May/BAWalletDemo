@@ -1,0 +1,6 @@
+framework module BAWallet {
+  umbrella header "BAWallet.h"
+
+  export *
+  module * { export * }
+}
